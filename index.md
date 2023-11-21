@@ -1,0 +1,2 @@
+#  Hello
+###### The first thing we did was we took the index.md file, and in it we added a couple lines with a #, and it's followed by a space, which stands for one # "h1". Where are the six "######" "h6".
